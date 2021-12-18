@@ -2,4 +2,4 @@
  Location
  weather
  time
- 
+ celcius
