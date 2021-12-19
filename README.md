@@ -1,5 +1,6 @@
 ﻿# Weather-App
  Location
  weather
- time
+ time 
+ day
  celcius
