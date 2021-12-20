@@ -2,5 +2,6 @@
  Location
  weather
  time 
+ city
  day
  celcius
