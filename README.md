@@ -3,5 +3,5 @@
  weather
  time 
  city
- day
+ day.
  celcius
